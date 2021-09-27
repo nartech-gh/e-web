@@ -1,0 +1,16 @@
+<a href='https://www.freepik.com/free-photos-vectors/banner'>Banner psd created by freepik - www.freepik.com</a>
+
+Products image: www.myntra.com
+
+fonts
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+css
+font-family: 'Poppins', sans-serif;
+
+rating
+
+https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css (html-head)
+<i class="fa fa-star" aria-hidden="true"></i> (loctio of the star)
+star o ==<i class="fa fa-star-o" aria-hidden="true"></i>
